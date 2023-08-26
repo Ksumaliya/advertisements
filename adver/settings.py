@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app_adver',
+    'myauth',
+    'django_email_verification',
 ]
 
 MIDDLEWARE = [
